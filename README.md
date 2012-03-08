@@ -1,6 +1,6 @@
-# 'Check'
+# _Check_
 
-Fake todo app management for a technical test
+Fake todo app management for a technical test _made in less than 4 hours_
 
 ## What I use
 + A bit of HTML5,
@@ -8,7 +8,7 @@ Fake todo app management for a technical test
 + Javascript with jQuery & JSON
 
 ### Front-end
-An API is written in javascript, & a jQuery plugin make the 
+An API is written in javascript, & a jQuery plugin make the
 DOM using the api when event we update the document.
 
 ### Back-end
